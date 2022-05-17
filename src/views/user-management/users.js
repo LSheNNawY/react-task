@@ -27,7 +27,7 @@ const Users = () => {
 
   return (
     <div className="main datatable-container">
-      <div className="d-flex justify-content-between">
+      <div className="d-flex justify-content-between align-items-center">
         <div>
           <span className="selected-rows-count">{selectedRows.length} selected</span>
           <button className="btn btn-sm btn-light">
