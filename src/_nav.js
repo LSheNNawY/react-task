@@ -10,10 +10,6 @@ const _nav = [
     to: '/dashboard',
     icon: <CIcon icon={cilSpeedometer} customClassName="nav-icon" />,
   },
-  // {
-  //   component: CFormCheck,
-  //   name: 'test',
-  // },
   {
     component: CNavGroup,
     name: 'ATM Settings',
